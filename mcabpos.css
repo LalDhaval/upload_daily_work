@@ -1,0 +1,39 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.navi{
+    background-color: aqua;
+    padding: 5px;
+    display: flex;
+    justify-content: space-between;
+    position: sticky;
+    top: 0;
+}
+.navi > img{
+    height: 50px;
+}
+ul, li{
+    display: inline;
+    margin: 20px;
+}
+ul, li, a{
+    text-decoration: none;
+    color: black;
+    font-size: 25px;
+}
+.toparrow img{
+    height: 50px;
+}
+.toparrow
+{
+    position: sticky;
+    bottom: 30px;
+    right: 10px;
+    /* left: 250px; */
+    border: 2px solid black;
+    width: fit-content;
+}
+html{
+    scroll-behavior: smooth;
+}

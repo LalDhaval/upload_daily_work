@@ -1,0 +1,9 @@
+url
+Search bar
+heading
+type of tag sp
+what is website
+what is domain
+what is hosting
+what is server
+what is browser

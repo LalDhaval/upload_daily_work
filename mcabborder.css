@@ -1,0 +1,14 @@
+.box{
+    border: 3px solid black;
+    border-left:;
+    /* border-top-left-radius: 30px;
+    border-bottom-right-radius: 30px; */
+    border-top-left-radius: 50%;
+    border-bottom-right-radius: 50%;
+    
+    border-top-style: 30px;
+    border: bottom style 50%;
+    border-right-color: solid black;
+    height: 100px;
+    width: 100px;
+}

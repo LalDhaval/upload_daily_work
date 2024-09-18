@@ -1,0 +1,30 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.box_parent{
+    border: 5px solid blue;
+    height: 150px;
+    width: 550px;
+    margin: 10px;
+    position: relative;
+    top: 150px;
+}
+.box_child{
+    border: 2px solid black;
+    height: 100px;
+    width: 100px;
+    position: absolute;
+    /* left: 450px; */
+    top: 25px;
+    /* right: 0;
+    bottom: 0; */
+}
+.second_child{
+    border: 5px solid red;
+    width: 40px;
+    height: 40px;
+    position: absolute;
+    margin: 5px;
+    top: 10px;
+}
