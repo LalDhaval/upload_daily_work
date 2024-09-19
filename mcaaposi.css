@@ -1,0 +1,79 @@
+.box{
+    border: 5px solid black;
+    height: 180px;
+    width: 180px;
+    margin: 80px;
+    border-radius: 50%;
+    position: relative;
+}
+.count1{
+    font-size: 20px;
+    position: absolute;
+    top: 22px;
+    right: 37px;
+}
+.count2{
+    font-size: 20px;
+    position: absolute;
+    top: 50px;
+    right: 20px;
+}
+.count3{
+    font-size: 20px;
+    position: absolute;
+    top: 22px;
+    right: 37px;
+}
+.count4{
+    font-size: 20px;
+    position: absolute;
+    top: 22px;
+    right: 37px;
+}
+.count5{
+    font-size: 20px;
+    position: absolute;
+    top: 22px;
+    right: 37px;
+}
+.count6{
+    font-size: 20px;
+    position: absolute;
+    top: 22px;
+    right: 37px;
+}
+.count7{
+    font-size: 20px;
+    position: absolute;
+    top: 22px;
+    right: 37px;
+}
+.count8{
+    font-size: 20px;
+    position: absolute;
+    top: 22px;
+    right: 37px;
+}
+.count9{
+    font-size: 20px;
+    position: absolute;
+    top: 22px;
+    right: 37px;
+}
+.count10{
+    font-size: 20px;
+    position: absolute;
+    top: 22px;
+    right: 37px;
+}
+.count11{
+    font-size: 20px;
+    position: absolute;
+    top: 22px;
+    right: 37px;
+}
+.count12{
+    font-size: 20px;
+    position: absolute;
+    right: 80px;
+}
